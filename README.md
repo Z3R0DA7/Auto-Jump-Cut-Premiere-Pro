@@ -3,7 +3,12 @@ Auto Jump-Cut คือปลั๊กอินสำหรับ Adobe Premiere
 
 รองรับการใช้งาน : โปรแกรม Adobe Premiere Pro CC 2020 (เวอร์ชัน 14.0) หรือใหม่กว่า บนระบบปฏิบัติการ Windows
 
+---------------------------------------
+
 ดาวน์โหลดได้ที่ : https://drive.google.com/file/d/1-eMKlvL0Sx43u3-F8jjYyxN7toAe0wza/view?usp=sharing
+
+---------------------------------------
+
 
 **อัพเดต**
 
